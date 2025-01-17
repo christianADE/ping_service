@@ -2,13 +2,13 @@
 un outils permettant de faire du ping sur une plage d'adresse ip donnée et de reperer le nombre et les adresses qui repondent correctement
 
 
-utilisation
+**utilisation**
 
 
-Linux
+**Linux**
 
 
-git clone https://github.com/christianADE/ping_service.git
+**git clone** https://github.com/christianADE/ping_service.git
 
 
 cd ping_service
@@ -17,7 +17,7 @@ cd ping_service
 python3 ping.py
 
 
-entrer donc la plage d'adresse a analyser 
+**entrer donc la plage d'adresse a analyser**
 
 
-ex: 192.168.1.
+**_ex: 192.168.1._**
